@@ -3,8 +3,8 @@
   "admin_ids": [
     7675369659
   ],
-  "channel_username": "channelniyato",
-  "default_threads": 10,
-  "max_concurrent": 5,
+  "channel_username": "yatofeedbacks",
+  "default_threads": 50,
+  "max_concurrent": 1,
   "cooldown_minutes": 30
 }
